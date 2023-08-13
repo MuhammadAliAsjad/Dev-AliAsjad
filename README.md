@@ -1,1 +1,1 @@
-👋 Hello there!  I'm Ali Asjad, a dedicated front-end developer with a sharp focus on crafting clean and intuitive user interfaces, along with the ability to skillfully transform design concepts into reality.
+
